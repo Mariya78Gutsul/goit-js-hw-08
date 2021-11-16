@@ -6,11 +6,11 @@
   "homepage": "https://mariya78gutsul.github.io/parcel-project-template",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /parcel-project-template/"
+    "build": "parcel build src/*.html --public-url /oit-js-hw-08/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/goit-js-hw-08"
+    "url": "git+https://github.com/goitacademy/parsel-project-template.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
